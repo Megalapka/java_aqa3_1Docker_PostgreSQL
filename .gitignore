@@ -4,6 +4,7 @@ HELP.md
 .gradle
 build/
 errorLog.txt
+/data
 
 ### STS ###
 .apt_generated
